@@ -15,5 +15,15 @@
   "bugs": {
     "url": "https://github.com/manojranga619/quiz3/issues"
   },
-  "homepage": "https://github.com/manojranga619/quiz3#readme"
+  "homepage": "https://github.com/manojranga619/quiz3#readme",
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "cors": "^2.8.5",
+    "crypto": "^1.0.1",
+    "express": "^4.17.2",
+    "hashlib": "^1.0.1",
+    "redis": "^4.0.4",
+    "tedious": "^14.3.0",
+    "tedious-async": "^1.0.9"
+  }
 }
